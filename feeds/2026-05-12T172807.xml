@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-12T17:28:07Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kv</id>
+    <title>/wiki/Search_engine_optimization</title>
+    <link href="https://en.wikipedia.org/wiki/Search_engine_optimization"/>
+    <updated>2026-05-12T17:28:07Z</updated>
+    <summary>https://en.wikipedia.org/wiki/Search_engine_optimization</summary>
+  </entry>
+</feed>
