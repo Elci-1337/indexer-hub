@@ -5,13 +5,566 @@
   <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <id>https://elci-1337.github.io/indexer-hub/</id>
-  <updated>2026-05-12T17:07:41Z</updated>
+  <updated>2026-05-12T17:14:03Z</updated>
   <author><name>Elci-1337</name></author>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kv</id>
-    <title>/wiki/Search_engine_optimization</title>
-    <link href="https://en.wikipedia.org/wiki/Search_engine_optimization"/>
-    <updated>2026-05-12T17:07:41Z</updated>
-    <summary>https://en.wikipedia.org/wiki/Search_engine_optimization</summary>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9ibG9nLw==</id>
+    <title>/blog/</title>
+    <link href="https://apfelwelten.de/blog/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/blog/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9uZmMtaXBo</id>
+    <title>/nfc-iphone-aktivieren/</title>
+    <link href="https://apfelwelten.de/nfc-iphone-aktivieren/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/nfc-iphone-aktivieren/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9jYWNoZS1s</id>
+    <title>/cache-leeren-iphone/</title>
+    <link href="https://apfelwelten.de/cache-leeren-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/cache-leeren-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9nb29nbGUt</id>
+    <title>/google-lens-iphone/</title>
+    <link href="https://apfelwelten.de/google-lens-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/google-lens-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9jb2xsYWdl</id>
+    <title>/collage-erstellen-iphone/</title>
+    <link href="https://apfelwelten.de/collage-erstellen-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/collage-erstellen-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9uZXVlcy1p</id>
+    <title>/neues-iphone-einrichten/</title>
+    <link href="https://apfelwelten.de/neues-iphone-einrichten/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/neues-iphone-einrichten/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93bGFuLXRl</id>
+    <title>/wlan-teilen-iphone/</title>
+    <link href="https://apfelwelten.de/wlan-teilen-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/wlan-teilen-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS92b2ljZW1h</id>
+    <title>/voicemail-ausschalten-iphone/</title>
+    <link href="https://apfelwelten.de/voicemail-ausschalten-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/voicemail-ausschalten-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93by1pc3Qt</id>
+    <title>/wo-ist-mein-iphone/</title>
+    <link href="https://apfelwelten.de/wo-ist-mein-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/wo-ist-mein-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zY2FubmVu</id>
+    <title>/scannen-mit-iphone/</title>
+    <link href="https://apfelwelten.de/scannen-mit-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/scannen-mit-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9udW1tZXIt</id>
+    <title>/nummer-unterdruecken-iphone/</title>
+    <link href="https://apfelwelten.de/nummer-unterdruecken-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/nummer-unterdruecken-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9jZWxsLWJy</id>
+    <title>/cell-broadcast-iphone/</title>
+    <link href="https://apfelwelten.de/cell-broadcast-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/cell-broadcast-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9haXJwb2Rz</id>
+    <title>/airpods-pro-2/</title>
+    <link href="https://apfelwelten.de/airpods-pro-2/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/airpods-pro-2/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9hcHBsZS13</id>
+    <title>/apple-watch-ausschalten/</title>
+    <link href="https://apfelwelten.de/apple-watch-ausschalten/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/apple-watch-ausschalten/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9hcHBsZS13</id>
+    <title>/apple-watch-zuruecksetzen/</title>
+    <link href="https://apfelwelten.de/apple-watch-zuruecksetzen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/apple-watch-zuruecksetzen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9hcHBsZS13</id>
+    <title>/apple-watch-mit-neuem-iphone-koppeln/</title>
+    <link href="https://apfelwelten.de/apple-watch-mit-neuem-iphone-koppeln/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/apple-watch-mit-neuem-iphone-koppeln/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9hcHBsZS13</id>
+    <title>/apple-watch-entkoppeln/</title>
+    <link href="https://apfelwelten.de/apple-watch-entkoppeln/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/apple-watch-entkoppeln/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGFkLXJh</id>
+    <title>/ipad-ratgeber/</title>
+    <link href="https://apfelwelten.de/ipad-ratgeber/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/ipad-ratgeber/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9hcHBsZS13</id>
+    <title>/apple-watch-airpods-ratgeber/</title>
+    <link href="https://apfelwelten.de/apple-watch-airpods-ratgeber/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/apple-watch-airpods-ratgeber/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWMtbWFj</id>
+    <title>/mac-macbook-ratgeber/</title>
+    <link href="https://apfelwelten.de/mac-macbook-ratgeber/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/mac-macbook-ratgeber/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-ios-ratgeber/</title>
+    <link href="https://apfelwelten.de/iphone-ios-ratgeber/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-ios-ratgeber/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9leGNlbC16</id>
+    <title>/excel-zirkelbezug-finden/</title>
+    <link href="https://apfelwelten.de/excel-zirkelbezug-finden/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/excel-zirkelbezug-finden/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-aufgehaengt-reset-funktioniert-nicht/</title>
+    <link href="https://apfelwelten.de/iphone-aufgehaengt-reset-funktioniert-nicht/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-aufgehaengt-reset-funktioniert-nicht/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-15-pro-max-gewicht/</title>
+    <link href="https://apfelwelten.de/iphone-15-pro-max-gewicht/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-15-pro-max-gewicht/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-laedt-langsam/</title>
+    <link href="https://apfelwelten.de/iphone-laedt-langsam/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-laedt-langsam/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-wecker-zu-leise/</title>
+    <link href="https://apfelwelten.de/iphone-wecker-zu-leise/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-wecker-zu-leise/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGFkLWNh</id>
+    <title>/ipad-cache-leeren/</title>
+    <link href="https://apfelwelten.de/ipad-cache-leeren/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/ipad-cache-leeren/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93aGF0c2Fw</id>
+    <title>/whatsapp-kein-ton/</title>
+    <link href="https://apfelwelten.de/whatsapp-kein-ton/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/whatsapp-kein-ton/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-fuer-kinder-einrichten/</title>
+    <link href="https://apfelwelten.de/iphone-fuer-kinder-einrichten/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-fuer-kinder-einrichten/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS95YWhvby1t</id>
+    <title>/yahoo-mail-login-mit-passwort/</title>
+    <link href="https://apfelwelten.de/yahoo-mail-login-mit-passwort/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/yahoo-mail-login-mit-passwort/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zdHJnLW1h</id>
+    <title>/strg-mac/</title>
+    <link href="https://apfelwelten.de/strg-mac/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/strg-mac/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93by1pc3Qt</id>
+    <title>/wo-ist-funktioniert-nicht/</title>
+    <link href="https://apfelwelten.de/wo-ist-funktioniert-nicht/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/wo-ist-funktioniert-nicht/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9iYWNrc2xh</id>
+    <title>/backslash-mac/</title>
+    <link href="https://apfelwelten.de/backslash-mac/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/backslash-mac/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-nicht-verfuegbar/</title>
+    <link href="https://apfelwelten.de/iphone-nicht-verfuegbar/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-nicht-verfuegbar/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS92b3JzY2hh</id>
+    <title>/vorschau-als-standard-festlegen-mac/</title>
+    <link href="https://apfelwelten.de/vorschau-als-standard-festlegen-mac/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/vorschau-als-standard-festlegen-mac/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93b3JkLXNl</id>
+    <title>/word-seiten-verschieben/</title>
+    <link href="https://apfelwelten.de/word-seiten-verschieben/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/word-seiten-verschieben/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGFkLWxh</id>
+    <title>/ipad-laedt-nicht-mehr/</title>
+    <link href="https://apfelwelten.de/ipad-laedt-nicht-mehr/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/ipad-laedt-nicht-mehr/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zZWN1cml0</id>
+    <title>/security-at-facebookmail/</title>
+    <link href="https://apfelwelten.de/security-at-facebookmail/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/security-at-facebookmail/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-mail-passwort-anzeigen/</title>
+    <link href="https://apfelwelten.de/iphone-mail-passwort-anzeigen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-mail-passwort-anzeigen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-auf-ipad-spiegeln/</title>
+    <link href="https://apfelwelten.de/iphone-auf-ipad-spiegeln/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-auf-ipad-spiegeln/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9mYWNlLWlk</id>
+    <title>/face-id-funktioniert-nicht-mehr/</title>
+    <link href="https://apfelwelten.de/face-id-funktioniert-nicht-mehr/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/face-id-funktioniert-nicht-mehr/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWNvcy10</id>
+    <title>/macos-tahoe/</title>
+    <link href="https://apfelwelten.de/macos-tahoe/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/macos-tahoe/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93aGF0c2Fw</id>
+    <title>/whatsapp-konten-geloescht-betrug/</title>
+    <link href="https://apfelwelten.de/whatsapp-konten-geloescht-betrug/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/whatsapp-konten-geloescht-betrug/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zZWl0LXdh</id>
+    <title>/seit-wann-gibt-es-youtube/</title>
+    <link href="https://apfelwelten.de/seit-wann-gibt-es-youtube/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/seit-wann-gibt-es-youtube/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9iYWxrb25r</id>
+    <title>/balkonkraftwerk-maximale-leistung/</title>
+    <link href="https://apfelwelten.de/balkonkraftwerk-maximale-leistung/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/balkonkraftwerk-maximale-leistung/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93YXMtaXN0</id>
+    <title>/was-ist-sora/</title>
+    <link href="https://apfelwelten.de/was-ist-sora/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/was-ist-sora/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9nZW1pbmkt</id>
+    <title>/gemini-vs-chatgpt/</title>
+    <link href="https://apfelwelten.de/gemini-vs-chatgpt/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/gemini-vs-chatgpt/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93YXMtaXN0</id>
+    <title>/was-ist-nft/</title>
+    <link href="https://apfelwelten.de/was-ist-nft/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/was-ist-nft/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zdGFybGlu</id>
+    <title>/starlink-satelliten-ausfall/</title>
+    <link href="https://apfelwelten.de/starlink-satelliten-ausfall/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/starlink-satelliten-ausfall/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9nb29nbGUt</id>
+    <title>/google-stoppt-samsung-updates/</title>
+    <link href="https://apfelwelten.de/google-stoppt-samsung-updates/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/google-stoppt-samsung-updates/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9jaGluZXNp</id>
+    <title>/chinesische-astronauten-gestrandet/</title>
+    <link href="https://apfelwelten.de/chinesische-astronauten-gestrandet/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/chinesische-astronauten-gestrandet/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93ZWxjaGUt</id>
+    <title>/welche-ki-ist-die-beste/</title>
+    <link href="https://apfelwelten.de/welche-ki-ist-die-beste/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/welche-ki-ist-die-beste/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93YXMtaXN0</id>
+    <title>/was-ist-rekuperation/</title>
+    <link href="https://apfelwelten.de/was-ist-rekuperation/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/was-ist-rekuperation/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9mbHVnemV1</id>
+    <title>/flugzeug-von-der-leyen-gps-stoerung/</title>
+    <link href="https://apfelwelten.de/flugzeug-von-der-leyen-gps-stoerung/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/flugzeug-von-der-leyen-gps-stoerung/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9jeWJlcmFu</id>
+    <title>/cyberangriff-flughafen-berlin/</title>
+    <link href="https://apfelwelten.de/cyberangriff-flughafen-berlin/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/cyberangriff-flughafen-berlin/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93YXMtaXN0</id>
+    <title>/was-ist-meta-al/</title>
+    <link href="https://apfelwelten.de/was-ist-meta-al/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/was-ist-meta-al/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tZXRhLWFp</id>
+    <title>/meta-ai-deaktivieren/</title>
+    <link href="https://apfelwelten.de/meta-ai-deaktivieren/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/meta-ai-deaktivieren/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93YXMtaXN0</id>
+    <title>/was-ist-gemini/</title>
+    <link href="https://apfelwelten.de/was-ist-gemini/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/was-ist-gemini/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9ha3R1ZWxs</id>
+    <title>/aktuelle-betrugsmasche-whatsapp/</title>
+    <link href="https://apfelwelten.de/aktuelle-betrugsmasche-whatsapp/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/aktuelle-betrugsmasche-whatsapp/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zaWNoZXJo</id>
+    <title>/sicherheitsluecke-samsung-whatsapp/</title>
+    <link href="https://apfelwelten.de/sicherheitsluecke-samsung-whatsapp/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/sicherheitsluecke-samsung-whatsapp/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93aGF0c2Fw</id>
+    <title>/whatsapp-30-nachrichten-pro-monat/</title>
+    <link href="https://apfelwelten.de/whatsapp-30-nachrichten-pro-monat/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/whatsapp-30-nachrichten-pro-monat/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93ZWxjaGUt</id>
+    <title>/welche-apple-watch-kann-blutdruck-messen/</title>
+    <link href="https://apfelwelten.de/welche-apple-watch-kann-blutdruck-messen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/welche-apple-watch-kann-blutdruck-messen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93YXMta2Fu</id>
+    <title>/was-kann-apple-intelligence/</title>
+    <link href="https://apfelwelten.de/was-kann-apple-intelligence/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/was-kann-apple-intelligence/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93by1maW5k</id>
+    <title>/wo-finde-ich-meine-apple-id/</title>
+    <link href="https://apfelwelten.de/wo-finde-ich-meine-apple-id/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/wo-finde-ich-meine-apple-id/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93aWUtZnVu</id>
+    <title>/wie-funktioniert-apple-pay/</title>
+    <link href="https://apfelwelten.de/wie-funktioniert-apple-pay/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/wie-funktioniert-apple-pay/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9nZWxvZXNj</id>
+    <title>/geloeschte-whatsapp-nachrichten-wiederherstellen-iphone/</title>
+    <link href="https://apfelwelten.de/geloeschte-whatsapp-nachrichten-wiederherstellen-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/geloeschte-whatsapp-nachrichten-wiederherstellen-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-verbindet-sich-nicht-mit-wlan/</title>
+    <link href="https://apfelwelten.de/iphone-verbindet-sich-nicht-mit-wlan/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-verbindet-sich-nicht-mit-wlan/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGhvbmUt</id>
+    <title>/iphone-laesst-sich-nicht-ausschalten/</title>
+    <link href="https://apfelwelten.de/iphone-laesst-sich-nicht-ausschalten/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/iphone-laesst-sich-nicht-ausschalten/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9hdXNnZWJs</id>
+    <title>/ausgeblendete-apps-wieder-einblenden-iphone/</title>
+    <link href="https://apfelwelten.de/ausgeblendete-apps-wieder-einblenden-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/ausgeblendete-apps-wieder-einblenden-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS93aGF0c2Fw</id>
+    <title>/whatsapp-nachrichten-kommen-erst-an-wenn-ich-whatsapp-oeffne-iphone/</title>
+    <link href="https://apfelwelten.de/whatsapp-nachrichten-kommen-erst-an-wenn-ich-whatsapp-oeffne-iphone/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/whatsapp-nachrichten-kommen-erst-an-wenn-ich-whatsapp-oeffne-iphone/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWNib29r</id>
+    <title>/macbook-tastatur-reinigen/</title>
+    <link href="https://apfelwelten.de/macbook-tastatur-reinigen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/macbook-tastatur-reinigen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9pcGFkLWFs</id>
+    <title>/ipad-als-zweiten-bildschirm-macbook/</title>
+    <link href="https://apfelwelten.de/ipad-als-zweiten-bildschirm-macbook/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/ipad-als-zweiten-bildschirm-macbook/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9haXJwb2Rz</id>
+    <title>/airpods-mit-macbook-verbinden/</title>
+    <link href="https://apfelwelten.de/airpods-mit-macbook-verbinden/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/airpods-mit-macbook-verbinden/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWNib29r</id>
+    <title>/macbook-neu-aufsetzen/</title>
+    <link href="https://apfelwelten.de/macbook-neu-aufsetzen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/macbook-neu-aufsetzen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS91bnRlcnNj</id>
+    <title>/unterschied-macbook-pro-und-air/</title>
+    <link href="https://apfelwelten.de/unterschied-macbook-pro-und-air/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/unterschied-macbook-pro-und-air/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWNib29r</id>
+    <title>/macbook-neustart-erzwingen/</title>
+    <link href="https://apfelwelten.de/macbook-neustart-erzwingen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/macbook-neustart-erzwingen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWNib29r</id>
+    <title>/macbook-geht-nicht-mehr-an/</title>
+    <link href="https://apfelwelten.de/macbook-geht-nicht-mehr-an/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/macbook-geht-nicht-mehr-an/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9tYWNib29r</id>
+    <title>/macbook-passwort-vergessen/</title>
+    <link href="https://apfelwelten.de/macbook-passwort-vergessen/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/macbook-passwort-vergessen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS9zY3JlZW5z</id>
+    <title>/screenshot-macbook-air/</title>
+    <link href="https://apfelwelten.de/screenshot-macbook-air/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/screenshot-macbook-air/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-12:aHR0cHM6Ly9hcGZlbHdlbHRlbi5kZS8xOTItMTY4</id>
+    <title>/192-168-l78-1/</title>
+    <link href="https://apfelwelten.de/192-168-l78-1/"/>
+    <updated>2026-05-12T17:14:03Z</updated>
+    <summary>https://apfelwelten.de/192-168-l78-1/</summary>
   </entry>
 </feed>
