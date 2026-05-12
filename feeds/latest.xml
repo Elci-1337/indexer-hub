@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337/indexer-hub</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>1970-01-01T00:00:00Z</updated>
+  <author><name>Elci-1337</name></author>
+</feed>
