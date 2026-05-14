@@ -5,13 +5,27 @@
   <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <id>https://elci-1337.github.io/indexer-hub/</id>
-  <updated>2026-05-14T10:08:11Z</updated>
+  <updated>2026-05-14T10:25:56Z</updated>
   <author><name>Elci-1337</name></author>
   <entry>
     <id>tag:elci-1337.github.io,2026-05-14:aHR0cHM6Ly9tZWluZS1zdGFkdC1yZXR0ZXQuZGUv</id>
-    <title>/schulferien-deutschland-2026-2027/</title>
-    <link href="https://meine-stadt-rettet.de/schulferien-deutschland-2026-2027/"/>
-    <updated>2026-05-14T10:08:11Z</updated>
-    <summary>https://meine-stadt-rettet.de/schulferien-deutschland-2026-2027/</summary>
+    <title>/feiertage-deutschland-2026-2027/</title>
+    <link href="https://meine-stadt-rettet.de/feiertage-deutschland-2026-2027/"/>
+    <updated>2026-05-14T10:25:56Z</updated>
+    <summary>https://meine-stadt-rettet.de/feiertage-deutschland-2026-2027/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-14:aHR0cHM6Ly9tZWluZS1zdGFkdC1yZXR0ZXQuZGUv</id>
+    <title>/brueckentage-2026-2027-deutschland/</title>
+    <link href="https://meine-stadt-rettet.de/brueckentage-2026-2027-deutschland/"/>
+    <updated>2026-05-14T10:25:56Z</updated>
+    <summary>https://meine-stadt-rettet.de/brueckentage-2026-2027-deutschland/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-14:aHR0cHM6Ly9tZWluZS1zdGFkdC1yZXR0ZXQuZGUv</id>
+    <title>/schulferien-bayern-2026-2027/</title>
+    <link href="https://meine-stadt-rettet.de/schulferien-bayern-2026-2027/"/>
+    <updated>2026-05-14T10:25:56Z</updated>
+    <summary>https://meine-stadt-rettet.de/schulferien-bayern-2026-2027/</summary>
   </entry>
 </feed>
