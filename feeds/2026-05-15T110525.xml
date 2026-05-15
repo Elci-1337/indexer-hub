@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-15T11:05:25Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-15:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/uae-llc-vs-sole-establishment/</title>
+    <link href="https://gulf-business-journal.com/uae-llc-vs-sole-establishment/"/>
+    <updated>2026-05-15T11:05:25Z</updated>
+    <summary>https://gulf-business-journal.com/uae-llc-vs-sole-establishment/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-15:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/uae-setup-timeline/</title>
+    <link href="https://gulf-business-journal.com/uae-setup-timeline/"/>
+    <updated>2026-05-15T11:05:25Z</updated>
+    <summary>https://gulf-business-journal.com/uae-setup-timeline/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-15:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/offshore-company-setup-uae/</title>
+    <link href="https://gulf-business-journal.com/offshore-company-setup-uae/"/>
+    <updated>2026-05-15T11:05:25Z</updated>
+    <summary>https://gulf-business-journal.com/offshore-company-setup-uae/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-15:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/low-cost-business-setup-uae/</title>
+    <link href="https://gulf-business-journal.com/low-cost-business-setup-uae/"/>
+    <updated>2026-05-15T11:05:25Z</updated>
+    <summary>https://gulf-business-journal.com/low-cost-business-setup-uae/</summary>
+  </entry>
+</feed>
