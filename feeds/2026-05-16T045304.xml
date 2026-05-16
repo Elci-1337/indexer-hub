@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-16T04:53:04Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-16:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvbWF0</id>
+    <title>/matratze-kaufen-ratgeber-2026/</title>
+    <link href="https://schlafens-zeit.net/matratze-kaufen-ratgeber-2026/"/>
+    <updated>2026-05-16T04:53:04Z</updated>
+    <summary>https://schlafens-zeit.net/matratze-kaufen-ratgeber-2026/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-16:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvd2ll</id>
+    <title>/wie-viel-schlaf-braucht-der-mensch/</title>
+    <link href="https://schlafens-zeit.net/wie-viel-schlaf-braucht-der-mensch/"/>
+    <updated>2026-05-16T04:53:04Z</updated>
+    <summary>https://schlafens-zeit.net/wie-viel-schlaf-braucht-der-mensch/</summary>
+  </entry>
+</feed>
