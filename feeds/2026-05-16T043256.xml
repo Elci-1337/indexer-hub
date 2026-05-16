@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-16T04:32:56Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-16:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvZWlu</id>
+    <title>/einschlafen-tipps-was-wirklich-hilft/</title>
+    <link href="https://schlafens-zeit.net/einschlafen-tipps-was-wirklich-hilft/"/>
+    <updated>2026-05-16T04:32:56Z</updated>
+    <summary>https://schlafens-zeit.net/einschlafen-tipps-was-wirklich-hilft/</summary>
+  </entry>
+</feed>
