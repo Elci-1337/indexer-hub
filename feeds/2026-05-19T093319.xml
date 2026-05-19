@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-19T09:33:19Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-19:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/gcc-free-zones/</title>
+    <link href="https://gulf-business-journal.com/gcc-free-zones/"/>
+    <updated>2026-05-19T09:33:19Z</updated>
+    <summary>https://gulf-business-journal.com/gcc-free-zones/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-19:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/dmcc-guide/</title>
+    <link href="https://gulf-business-journal.com/dmcc-guide/"/>
+    <updated>2026-05-19T09:33:19Z</updated>
+    <summary>https://gulf-business-journal.com/dmcc-guide/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-19:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/jafza-guide/</title>
+    <link href="https://gulf-business-journal.com/jafza-guide/"/>
+    <updated>2026-05-19T09:33:19Z</updated>
+    <summary>https://gulf-business-journal.com/jafza-guide/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-19:aHR0cHM6Ly9ndWxmLWJ1c2luZXNzLWpvdXJuYWwu</id>
+    <title>/difc-guide/</title>
+    <link href="https://gulf-business-journal.com/difc-guide/"/>
+    <updated>2026-05-19T09:33:19Z</updated>
+    <summary>https://gulf-business-journal.com/difc-guide/</summary>
+  </entry>
+</feed>
