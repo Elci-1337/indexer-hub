@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-21T10:48:15Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9yZWNodHNmb3JtLWdy</id>
+    <title>/rechtsform-gruendung-schweiz/</title>
+    <link href="https://unweb.ch/rechtsform-gruendung-schweiz/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/rechtsform-gruendung-schweiz/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9maXJtZW5ncnVlbmR1</id>
+    <title>/firmengruendung-kosten-schweiz/</title>
+    <link href="https://unweb.ch/firmengruendung-kosten-schweiz/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/firmengruendung-kosten-schweiz/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9taW5kZXN0a2FwaXRh</id>
+    <title>/mindestkapital-gmbh-ag/</title>
+    <link href="https://unweb.ch/mindestkapital-gmbh-ag/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/mindestkapital-gmbh-ag/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9rYW50b24tdW50ZXJu</id>
+    <title>/kanton-unternehmenssteuer-schweiz/</title>
+    <link href="https://unweb.ch/kanton-unternehmenssteuer-schweiz/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/kanton-unternehmenssteuer-schweiz/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9jcnlwdG8tdmFsbGV5</id>
+    <title>/crypto-valley-zug/</title>
+    <link href="https://unweb.ch/crypto-valley-zug/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/crypto-valley-zug/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9rcnlwdG8tcmVndWxp</id>
+    <title>/krypto-regulierung-schweiz/</title>
+    <link href="https://unweb.ch/krypto-regulierung-schweiz/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/krypto-regulierung-schweiz/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9raS1zdGFydHVwcy1z</id>
+    <title>/ki-startups-schweiz/</title>
+    <link href="https://unweb.ch/ki-startups-schweiz/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/ki-startups-schweiz/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-21:aHR0cHM6Ly91bndlYi5jaC9ldGgtZXBmbC1pbm5v</id>
+    <title>/eth-epfl-innovation/</title>
+    <link href="https://unweb.ch/eth-epfl-innovation/"/>
+    <updated>2026-05-21T10:48:15Z</updated>
+    <summary>https://unweb.ch/eth-epfl-innovation/</summary>
+  </entry>
+</feed>
