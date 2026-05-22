@@ -5,34 +5,34 @@
   <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <id>https://elci-1337.github.io/indexer-hub/</id>
-  <updated>2026-05-22T17:30:09Z</updated>
+  <updated>2026-05-22T17:49:25Z</updated>
   <author><name>Elci-1337</name></author>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUvbWF0dGVyLXN0YW5k</id>
-    <title>/matter-standard-smart-home-2026/</title>
-    <link href="https://bfg-it.de/matter-standard-smart-home-2026/"/>
-    <updated>2026-05-22T17:30:09Z</updated>
-    <summary>https://bfg-it.de/matter-standard-smart-home-2026/</summary>
+    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUvcHJvbXB0LWVuZ2lu</id>
+    <title>/prompt-engineering-2026-profi-workflows/</title>
+    <link href="https://bfg-it.de/prompt-engineering-2026-profi-workflows/"/>
+    <updated>2026-05-22T17:49:25Z</updated>
+    <summary>https://bfg-it.de/prompt-engineering-2026-profi-workflows/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUvc21hcnRlLWdsdWVo</id>
-    <title>/smarte-gluehbirnen-2026-vergleich/</title>
-    <link href="https://bfg-it.de/smarte-gluehbirnen-2026-vergleich/"/>
-    <updated>2026-05-22T17:30:09Z</updated>
-    <summary>https://bfg-it.de/smarte-gluehbirnen-2026-vergleich/</summary>
+    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUvbG9rYWxlLWxsbXMt</id>
+    <title>/lokale-llms-setup-2026-mac-ollama/</title>
+    <link href="https://bfg-it.de/lokale-llms-setup-2026-mac-ollama/"/>
+    <updated>2026-05-22T17:49:25Z</updated>
+    <summary>https://bfg-it.de/lokale-llms-setup-2026-mac-ollama/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUvaW90LXNpY2hlcmhl</id>
-    <title>/iot-sicherheit-smart-home-2026/</title>
-    <link href="https://bfg-it.de/iot-sicherheit-smart-home-2026/"/>
-    <updated>2026-05-22T17:30:09Z</updated>
-    <summary>https://bfg-it.de/iot-sicherheit-smart-home-2026/</summary>
+    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUva2ktY29kaW5nLXRv</id>
+    <title>/ki-coding-tools-2026-claude-cursor-copilot/</title>
+    <link href="https://bfg-it.de/ki-coding-tools-2026-claude-cursor-copilot/"/>
+    <updated>2026-05-22T17:49:25Z</updated>
+    <summary>https://bfg-it.de/ki-coding-tools-2026-claude-cursor-copilot/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUva3VlbnN0bGljaGUt</id>
-    <title>/kuenstliche-intelligenz-2026-frontier-modelle/</title>
-    <link href="https://bfg-it.de/kuenstliche-intelligenz-2026-frontier-modelle/"/>
-    <updated>2026-05-22T17:30:09Z</updated>
-    <summary>https://bfg-it.de/kuenstliche-intelligenz-2026-frontier-modelle/</summary>
+    <id>tag:elci-1337.github.io,2026-05-22:aHR0cHM6Ly9iZmctaXQuZGUvcmFnLWltcGxlbWVu</id>
+    <title>/rag-implementation-2026-vector-store-embedding/</title>
+    <link href="https://bfg-it.de/rag-implementation-2026-vector-store-embedding/"/>
+    <updated>2026-05-22T17:49:25Z</updated>
+    <summary>https://bfg-it.de/rag-implementation-2026-vector-store-embedding/</summary>
   </entry>
 </feed>
