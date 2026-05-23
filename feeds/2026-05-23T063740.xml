@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-23T06:37:40Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvY3liZXJzZWN1cml0</id>
+    <title>/cybersecurity-2026-bedrohungen-verteidigung-compliance/</title>
+    <link href="https://bfg-it.de/cybersecurity-2026-bedrohungen-verteidigung-compliance/"/>
+    <updated>2026-05-23T06:37:40Z</updated>
+    <summary>https://bfg-it.de/cybersecurity-2026-bedrohungen-verteidigung-compliance/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvbmlzMi1yaWNodGxp</id>
+    <title>/nis2-richtlinie-2026-umsetzung-mittelstand/</title>
+    <link href="https://bfg-it.de/nis2-richtlinie-2026-umsetzung-mittelstand/"/>
+    <updated>2026-05-23T06:37:40Z</updated>
+    <summary>https://bfg-it.de/nis2-richtlinie-2026-umsetzung-mittelstand/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvemVyby10cnVzdC1h</id>
+    <title>/zero-trust-architektur-2026-implementation/</title>
+    <link href="https://bfg-it.de/zero-trust-architektur-2026-implementation/"/>
+    <updated>2026-05-23T06:37:40Z</updated>
+    <summary>https://bfg-it.de/zero-trust-architektur-2026-implementation/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvaGFyZHdhcmUtc2lj</id>
+    <title>/hardware-sicherheitsschluessel-2026-yubikey-vergleich/</title>
+    <link href="https://bfg-it.de/hardware-sicherheitsschluessel-2026-yubikey-vergleich/"/>
+    <updated>2026-05-23T06:37:40Z</updated>
+    <summary>https://bfg-it.de/hardware-sicherheitsschluessel-2026-yubikey-vergleich/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvcmFuc29td2FyZS1h</id>
+    <title>/ransomware-abwehr-2026-backup-detection-recovery/</title>
+    <link href="https://bfg-it.de/ransomware-abwehr-2026-backup-detection-recovery/"/>
+    <updated>2026-05-23T06:37:40Z</updated>
+    <summary>https://bfg-it.de/ransomware-abwehr-2026-backup-detection-recovery/</summary>
+  </entry>
+</feed>
