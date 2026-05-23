@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-23T06:58:53Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvY2xvdWQtZGV2b3Bz</id>
+    <title>/cloud-devops-2026-aws-azure-gcp-praxis/</title>
+    <link href="https://bfg-it.de/cloud-devops-2026-aws-azure-gcp-praxis/"/>
+    <updated>2026-05-23T06:58:53Z</updated>
+    <summary>https://bfg-it.de/cloud-devops-2026-aws-azure-gcp-praxis/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvYXdzLWF6dXJlLWdj</id>
+    <title>/aws-azure-gcp-2026-vergleich-use-cases/</title>
+    <link href="https://bfg-it.de/aws-azure-gcp-2026-vergleich-use-cases/"/>
+    <updated>2026-05-23T06:58:53Z</updated>
+    <summary>https://bfg-it.de/aws-azure-gcp-2026-vergleich-use-cases/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUva3ViZXJuZXRlcy1r</id>
+    <title>/kubernetes-kosten-2026-eks-aks-gke-pricing/</title>
+    <link href="https://bfg-it.de/kubernetes-kosten-2026-eks-aks-gke-pricing/"/>
+    <updated>2026-05-23T06:58:53Z</updated>
+    <summary>https://bfg-it.de/kubernetes-kosten-2026-eks-aks-gke-pricing/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-23:aHR0cHM6Ly9iZmctaXQuZGUvaWFjLTIwMjYtdGVy</id>
+    <title>/iac-2026-terraform-pulumi-opentofu-vergleich/</title>
+    <link href="https://bfg-it.de/iac-2026-terraform-pulumi-opentofu-vergleich/"/>
+    <updated>2026-05-23T06:58:53Z</updated>
+    <summary>https://bfg-it.de/iac-2026-terraform-pulumi-opentofu-vergleich/</summary>
+  </entry>
+</feed>
