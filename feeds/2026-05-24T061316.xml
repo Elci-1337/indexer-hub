@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-24T06:13:16Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-24:aHR0cHM6Ly9iZmctaXQuZGUvcGFzc3dvcnQtbWFu</id>
+    <title>/passwort-manager-2026-vergleich-1password-bitwarden/</title>
+    <link href="https://bfg-it.de/passwort-manager-2026-vergleich-1password-bitwarden/"/>
+    <updated>2026-05-24T06:13:16Z</updated>
+    <summary>https://bfg-it.de/passwort-manager-2026-vergleich-1password-bitwarden/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-24:aHR0cHM6Ly9iZmctaXQuZGUvbm90ZS10YWtpbmct</id>
+    <title>/note-taking-2026-obsidian-notion-logseq-vergleich/</title>
+    <link href="https://bfg-it.de/note-taking-2026-obsidian-notion-logseq-vergleich/"/>
+    <updated>2026-05-24T06:13:16Z</updated>
+    <summary>https://bfg-it.de/note-taking-2026-obsidian-notion-logseq-vergleich/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-24:aHR0cHM6Ly9iZmctaXQuZGUvbGludXgtZGlzdHJp</id>
+    <title>/linux-distributionen-2026-ubuntu-fedora-nixos-vergleich/</title>
+    <link href="https://bfg-it.de/linux-distributionen-2026-ubuntu-fedora-nixos-vergleich/"/>
+    <updated>2026-05-24T06:13:16Z</updated>
+    <summary>https://bfg-it.de/linux-distributionen-2026-ubuntu-fedora-nixos-vergleich/</summary>
+  </entry>
+</feed>
