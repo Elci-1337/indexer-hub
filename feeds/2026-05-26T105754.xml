@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-05-26T10:57:54Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-26:aHR0cHM6Ly9iYXN0ZWxuZC5kZS9iYXN0ZWxpZGVl</id>
+    <title>/bastelideen-diy/raeucherofen-selber-bauen/</title>
+    <link href="https://bastelnd.de/bastelideen-diy/raeucherofen-selber-bauen/"/>
+    <updated>2026-05-26T10:57:54Z</updated>
+    <summary>https://bastelnd.de/bastelideen-diy/raeucherofen-selber-bauen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-26:aHR0cHM6Ly9iYXN0ZWxuZC5kZS9iYXN0ZWxpZGVl</id>
+    <title>/bastelideen-diy/schmetterling-basteln/</title>
+    <link href="https://bastelnd.de/bastelideen-diy/schmetterling-basteln/"/>
+    <updated>2026-05-26T10:57:54Z</updated>
+    <summary>https://bastelnd.de/bastelideen-diy/schmetterling-basteln/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-26:aHR0cHM6Ly9iYXN0ZWxuZC5kZS9iYXN0ZWxpZGVl</id>
+    <title>/bastelideen-diy/basteln-mit-senioren/</title>
+    <link href="https://bastelnd.de/bastelideen-diy/basteln-mit-senioren/"/>
+    <updated>2026-05-26T10:57:54Z</updated>
+    <summary>https://bastelnd.de/bastelideen-diy/basteln-mit-senioren/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-26:aHR0cHM6Ly9iYXN0ZWxuZC5kZS9iYXN0ZWxpZGVl</id>
+    <title>/bastelideen-diy/holzbank-selber-bauen/</title>
+    <link href="https://bastelnd.de/bastelideen-diy/holzbank-selber-bauen/"/>
+    <updated>2026-05-26T10:57:54Z</updated>
+    <summary>https://bastelnd.de/bastelideen-diy/holzbank-selber-bauen/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-26:aHR0cHM6Ly9iYXN0ZWxuZC5kZS9iYXN0ZWxpZGVl</id>
+    <title>/bastelideen-diy/basteln-mit-cds/</title>
+    <link href="https://bastelnd.de/bastelideen-diy/basteln-mit-cds/"/>
+    <updated>2026-05-26T10:57:54Z</updated>
+    <summary>https://bastelnd.de/bastelideen-diy/basteln-mit-cds/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-05-26:aHR0cHM6Ly9iYXN0ZWxuZC5kZS9iYXN0ZWxpZGVl</id>
+    <title>/bastelideen-diy/geldgeschenk-hochzeit-basteln/</title>
+    <link href="https://bastelnd.de/bastelideen-diy/geldgeschenk-hochzeit-basteln/"/>
+    <updated>2026-05-26T10:57:54Z</updated>
+    <summary>https://bastelnd.de/bastelideen-diy/geldgeschenk-hochzeit-basteln/</summary>
+  </entry>
+</feed>
