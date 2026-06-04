@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-06-04T09:58:24Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-04:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvc2No</id>
+    <title>/schlafhygiene-leitfaden-besserer-schlaf/</title>
+    <link href="https://schlafens-zeit.net/schlafhygiene-leitfaden-besserer-schlaf/"/>
+    <updated>2026-06-04T09:58:24Z</updated>
+    <summary>https://schlafens-zeit.net/schlafhygiene-leitfaden-besserer-schlaf/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-04:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvc2No</id>
+    <title>/schlafphasen-erklaert/</title>
+    <link href="https://schlafens-zeit.net/schlafphasen-erklaert/"/>
+    <updated>2026-06-04T09:58:24Z</updated>
+    <summary>https://schlafens-zeit.net/schlafphasen-erklaert/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-04:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvZHVy</id>
+    <title>/durchschlafprobleme-ursachen-was-hilft/</title>
+    <link href="https://schlafens-zeit.net/durchschlafprobleme-ursachen-was-hilft/"/>
+    <updated>2026-06-04T09:58:24Z</updated>
+    <summary>https://schlafens-zeit.net/durchschlafprobleme-ursachen-was-hilft/</summary>
+  </entry>
+</feed>
