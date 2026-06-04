@@ -5,34 +5,27 @@
   <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <id>https://elci-1337.github.io/indexer-hub/</id>
-  <updated>2026-05-29T07:23:58Z</updated>
+  <updated>2026-06-04T09:58:24Z</updated>
   <author><name>Elci-1337</name></author>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-29:aHR0cHM6Ly91bndlYi5jaC9mdWVocnVuZy1zY2h3</id>
-    <title>/fuehrung-schweiz/</title>
-    <link href="https://unweb.ch/fuehrung-schweiz/"/>
-    <updated>2026-05-29T07:23:58Z</updated>
-    <summary>https://unweb.ch/fuehrung-schweiz/</summary>
+    <id>tag:elci-1337.github.io,2026-06-04:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvc2No</id>
+    <title>/schlafhygiene-leitfaden-besserer-schlaf/</title>
+    <link href="https://schlafens-zeit.net/schlafhygiene-leitfaden-besserer-schlaf/"/>
+    <updated>2026-06-04T09:58:24Z</updated>
+    <summary>https://schlafens-zeit.net/schlafhygiene-leitfaden-besserer-schlaf/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-29:aHR0cHM6Ly91bndlYi5jaC9rYXJyaWVyZS1zY2h3</id>
-    <title>/karriere-schweiz/</title>
-    <link href="https://unweb.ch/karriere-schweiz/"/>
-    <updated>2026-05-29T07:23:58Z</updated>
-    <summary>https://unweb.ch/karriere-schweiz/</summary>
+    <id>tag:elci-1337.github.io,2026-06-04:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvc2No</id>
+    <title>/schlafphasen-erklaert/</title>
+    <link href="https://schlafens-zeit.net/schlafphasen-erklaert/"/>
+    <updated>2026-06-04T09:58:24Z</updated>
+    <summary>https://schlafens-zeit.net/schlafphasen-erklaert/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-05-29:aHR0cHM6Ly91bndlYi5jaC9zY2h3ZWl6ZXItd2ly</id>
-    <title>/schweizer-wirtschaft/</title>
-    <link href="https://unweb.ch/schweizer-wirtschaft/"/>
-    <updated>2026-05-29T07:23:58Z</updated>
-    <summary>https://unweb.ch/schweizer-wirtschaft/</summary>
-  </entry>
-  <entry>
-    <id>tag:elci-1337.github.io,2026-05-29:aHR0cHM6Ly91bndlYi5jaC9nZWhhbHQtc2Nod2Vp</id>
-    <title>/gehalt-schweiz/</title>
-    <link href="https://unweb.ch/gehalt-schweiz/"/>
-    <updated>2026-05-29T07:23:58Z</updated>
-    <summary>https://unweb.ch/gehalt-schweiz/</summary>
+    <id>tag:elci-1337.github.io,2026-06-04:aHR0cHM6Ly9zY2hsYWZlbnMtemVpdC5uZXQvZHVy</id>
+    <title>/durchschlafprobleme-ursachen-was-hilft/</title>
+    <link href="https://schlafens-zeit.net/durchschlafprobleme-ursachen-was-hilft/"/>
+    <updated>2026-06-04T09:58:24Z</updated>
+    <summary>https://schlafens-zeit.net/durchschlafprobleme-ursachen-was-hilft/</summary>
   </entry>
 </feed>
