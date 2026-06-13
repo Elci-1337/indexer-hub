@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-06-13T20:14:03Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9sb2thbGUtZGllbnN0bGVpc3Rlci1w</id>
+    <title>/dampfreiniger-test-2026/</title>
+    <link href="https://lokale-dienstleister-portal.de/dampfreiniger-test-2026/"/>
+    <updated>2026-06-13T20:14:03Z</updated>
+    <summary>https://lokale-dienstleister-portal.de/dampfreiniger-test-2026/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9sb2thbGUtZGllbnN0bGVpc3Rlci1w</id>
+    <title>/fenstersauger-test-2026/</title>
+    <link href="https://lokale-dienstleister-portal.de/fenstersauger-test-2026/"/>
+    <updated>2026-06-13T20:14:03Z</updated>
+    <summary>https://lokale-dienstleister-portal.de/fenstersauger-test-2026/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9sb2thbGUtZGllbnN0bGVpc3Rlci1w</id>
+    <title>/nass-trockensauger-test-2026/</title>
+    <link href="https://lokale-dienstleister-portal.de/nass-trockensauger-test-2026/"/>
+    <updated>2026-06-13T20:14:03Z</updated>
+    <summary>https://lokale-dienstleister-portal.de/nass-trockensauger-test-2026/</summary>
+  </entry>
+</feed>
