@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-06-13T14:59:22Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9nbHVlY2t6dWhhdXMuZGUvcmVwdGls</id>
+    <title>/reptilien-halten-artgerechte-pflege/</title>
+    <link href="https://glueckzuhaus.de/reptilien-halten-artgerechte-pflege/"/>
+    <updated>2026-06-13T14:59:22Z</updated>
+    <summary>https://glueckzuhaus.de/reptilien-halten-artgerechte-pflege/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9nbHVlY2t6dWhhdXMuZGUvemltbWVy</id>
+    <title>/zimmerpflanzen-besseres-raumklima/</title>
+    <link href="https://glueckzuhaus.de/zimmerpflanzen-besseres-raumklima/"/>
+    <updated>2026-06-13T14:59:22Z</updated>
+    <summary>https://glueckzuhaus.de/zimmerpflanzen-besseres-raumklima/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9nbHVlY2t6dWhhdXMuZGUvYXF1YXJp</id>
+    <title>/aquarienfans-guide-unterwasserwelt/</title>
+    <link href="https://glueckzuhaus.de/aquarienfans-guide-unterwasserwelt/"/>
+    <updated>2026-06-13T14:59:22Z</updated>
+    <summary>https://glueckzuhaus.de/aquarienfans-guide-unterwasserwelt/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9nbHVlY2t6dWhhdXMuZGUvc2F1bmFv</id>
+    <title>/saunaofen-holz-wellness-zuhause/</title>
+    <link href="https://glueckzuhaus.de/saunaofen-holz-wellness-zuhause/"/>
+    <updated>2026-06-13T14:59:22Z</updated>
+    <summary>https://glueckzuhaus.de/saunaofen-holz-wellness-zuhause/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-13:aHR0cHM6Ly9nbHVlY2t6dWhhdXMuZGUvcmFzZW5w</id>
+    <title>/rasenpflege-ganzjaehrig-gruen/</title>
+    <link href="https://glueckzuhaus.de/rasenpflege-ganzjaehrig-gruen/"/>
+    <updated>2026-06-13T14:59:22Z</updated>
+    <summary>https://glueckzuhaus.de/rasenpflege-ganzjaehrig-gruen/</summary>
+  </entry>
+</feed>
