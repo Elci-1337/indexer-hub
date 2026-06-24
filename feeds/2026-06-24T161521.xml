@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-06-24T16:15:21Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-24:aHR0cHM6Ly9nYm0tZm9ydW0uZGUvZW1haWwtbWFy</id>
+    <title>/email-marketing-newsletter-strategie-selbststaendige/</title>
+    <link href="https://gbm-forum.de/email-marketing-newsletter-strategie-selbststaendige/"/>
+    <updated>2026-06-24T16:15:21Z</updated>
+    <summary>https://gbm-forum.de/email-marketing-newsletter-strategie-selbststaendige/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-06-24:aHR0cHM6Ly9nYm0tZm9ydW0uZGUvYW5nZWJvdC1z</id>
+    <title>/angebot-schreiben-selbststaendige-vorlagen-strategie/</title>
+    <link href="https://gbm-forum.de/angebot-schreiben-selbststaendige-vorlagen-strategie/"/>
+    <updated>2026-06-24T16:15:21Z</updated>
+    <summary>https://gbm-forum.de/angebot-schreiben-selbststaendige-vorlagen-strategie/</summary>
+  </entry>
+</feed>
