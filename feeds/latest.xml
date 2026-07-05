@@ -5,20 +5,20 @@
   <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <id>https://elci-1337.github.io/indexer-hub/</id>
-  <updated>2026-07-05T10:56:53Z</updated>
+  <updated>2026-07-05T10:58:43Z</updated>
   <author><name>Elci-1337</name></author>
   <entry>
-    <id>tag:elci-1337.github.io,2026-07-05:aHR0cHM6Ly9nYm0tZm9ydW0uZGUvY3Jvd2RmdW5k</id>
-    <title>/crowdfunding-finanzierung-selbststaendige/</title>
-    <link href="https://gbm-forum.de/crowdfunding-finanzierung-selbststaendige/"/>
-    <updated>2026-07-05T10:56:53Z</updated>
-    <summary>https://gbm-forum.de/crowdfunding-finanzierung-selbststaendige/</summary>
+    <id>tag:elci-1337.github.io,2026-07-05:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS93aWUtZW50</id>
+    <title>/wie-entsteht-sepsis-blutvergiftung/</title>
+    <link href="https://sepsisforum.de/wie-entsteht-sepsis-blutvergiftung/"/>
+    <updated>2026-07-05T10:58:43Z</updated>
+    <summary>https://sepsisforum.de/wie-entsteht-sepsis-blutvergiftung/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-07-05:aHR0cHM6Ly9nYm0tZm9ydW0uZGUva3VuZGVuYWtx</id>
-    <title>/kundenakquise-strategie-selbststaendige/</title>
-    <link href="https://gbm-forum.de/kundenakquise-strategie-selbststaendige/"/>
-    <updated>2026-07-05T10:56:53Z</updated>
-    <summary>https://gbm-forum.de/kundenakquise-strategie-selbststaendige/</summary>
+    <id>tag:elci-1337.github.io,2026-07-05:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS9zZXBzaXMt</id>
+    <title>/sepsis-dauer-bis-tod/</title>
+    <link href="https://sepsisforum.de/sepsis-dauer-bis-tod/"/>
+    <updated>2026-07-05T10:58:43Z</updated>
+    <summary>https://sepsisforum.de/sepsis-dauer-bis-tod/</summary>
   </entry>
 </feed>
