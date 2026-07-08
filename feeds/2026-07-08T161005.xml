@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-07-08T16:10:05Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-07-08:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS91bnRlcnNj</id>
+    <title>/unterschied-sepsis-blutvergiftung-septischer-schock/</title>
+    <link href="https://sepsisforum.de/unterschied-sepsis-blutvergiftung-septischer-schock/"/>
+    <updated>2026-07-08T16:10:05Z</updated>
+    <summary>https://sepsisforum.de/unterschied-sepsis-blutvergiftung-septischer-schock/</summary>
+  </entry>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-07-08:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS9pc3Qtc2Vw</id>
+    <title>/ist-sepsis-heilbar-ueberlebenschancen/</title>
+    <link href="https://sepsisforum.de/ist-sepsis-heilbar-ueberlebenschancen/"/>
+    <updated>2026-07-08T16:10:05Z</updated>
+    <summary>https://sepsisforum.de/ist-sepsis-heilbar-ueberlebenschancen/</summary>
+  </entry>
+</feed>
