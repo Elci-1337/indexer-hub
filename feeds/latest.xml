@@ -5,20 +5,20 @@
   <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <id>https://elci-1337.github.io/indexer-hub/</id>
-  <updated>2026-07-08T16:10:05Z</updated>
+  <updated>2026-07-09T16:24:09Z</updated>
   <author><name>Elci-1337</name></author>
   <entry>
-    <id>tag:elci-1337.github.io,2026-07-08:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS91bnRlcnNj</id>
-    <title>/unterschied-sepsis-blutvergiftung-septischer-schock/</title>
-    <link href="https://sepsisforum.de/unterschied-sepsis-blutvergiftung-septischer-schock/"/>
-    <updated>2026-07-08T16:10:05Z</updated>
-    <summary>https://sepsisforum.de/unterschied-sepsis-blutvergiftung-septischer-schock/</summary>
+    <id>tag:elci-1337.github.io,2026-07-09:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS9zZXBzaXMt</id>
+    <title>/sepsis-behandlung-klinik/</title>
+    <link href="https://sepsisforum.de/sepsis-behandlung-klinik/"/>
+    <updated>2026-07-09T16:24:09Z</updated>
+    <summary>https://sepsisforum.de/sepsis-behandlung-klinik/</summary>
   </entry>
   <entry>
-    <id>tag:elci-1337.github.io,2026-07-08:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS9pc3Qtc2Vw</id>
-    <title>/ist-sepsis-heilbar-ueberlebenschancen/</title>
-    <link href="https://sepsisforum.de/ist-sepsis-heilbar-ueberlebenschancen/"/>
-    <updated>2026-07-08T16:10:05Z</updated>
-    <summary>https://sepsisforum.de/ist-sepsis-heilbar-ueberlebenschancen/</summary>
+    <id>tag:elci-1337.github.io,2026-07-09:aHR0cHM6Ly9zZXBzaXNmb3J1bS5kZS9zZXBzaXMt</id>
+    <title>/sepsis-diagnose-sofa-score/</title>
+    <link href="https://sepsisforum.de/sepsis-diagnose-sofa-score/"/>
+    <updated>2026-07-09T16:24:09Z</updated>
+    <summary>https://sepsisforum.de/sepsis-diagnose-sofa-score/</summary>
   </entry>
 </feed>
