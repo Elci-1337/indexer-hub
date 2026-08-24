@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>URL Hub — Elci-1337</title>
+  <link href="https://elci-1337.github.io/indexer-hub"/>
+  <link rel="self" href="https://elci-1337.github.io/indexer-hub/feeds/latest.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <id>https://elci-1337.github.io/indexer-hub/</id>
+  <updated>2026-08-24T10:30:26Z</updated>
+  <author><name>Elci-1337</name></author>
+  <entry>
+    <id>tag:elci-1337.github.io,2026-08-24:aHR0cHM6Ly9kZXV0c2NoemVpdC5kZS9rcmV1emZh</id>
+    <title>/kreuzfahrt-mittelmeer-sonne-meer-urlaub/</title>
+    <link href="https://deutschzeit.de/kreuzfahrt-mittelmeer-sonne-meer-urlaub/"/>
+    <updated>2026-08-24T10:30:26Z</updated>
+    <summary>https://deutschzeit.de/kreuzfahrt-mittelmeer-sonne-meer-urlaub/</summary>
+  </entry>
+</feed>
